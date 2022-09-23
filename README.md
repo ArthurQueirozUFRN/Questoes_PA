@@ -1,2 +1,2 @@
 Lista de Questões - PROGRAMAÇÃO AVANÇADA  
-//  Aluno: Arthur Phelipe de Olveira Queiroz
+Aluno: Arthur Phelipe de Olveira Queiroz
