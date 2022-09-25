@@ -1,0 +1,11 @@
+//Questão 06:
+
+//Assumindo que pulo[] é um vetor do tipo int, quais das seguintes expressões referenciam o valor do terceiro elemento do vetor?
+
+//  *(pulo + 2);
+//  *(pulo + 4);
+//  pulo + 4;
+//  pulo + 2;
+
+//Resposta: É a expressão '*(pulo + 2);' ela pega a posição que você esta e avança mais duas posições, pois em um vetor suas posições são vetor[0,1,2,3...]
+//portanto sua terceira posição seria vetor[2].
