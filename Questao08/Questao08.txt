@@ -1,0 +1,24 @@
+//Questão 08:
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  int vet[] = {4,9,13};
+  int i;
+  for(i=0;i<3;i++){
+  printf("%d",*(vet+i));
+  }
+  return 0;
+}
+
+//Exibe as três primeiras posições do vetor vet[] como um valor decimal.
+
+int main(){
+  int vet[] = {4,9,13};
+  int i;
+  for(i=0;i<3;i++){
+  printf("%x ",vet+i);
+  }
+}
+ //Exibe os elementos do vetor vet[] na base hexadecimal.
