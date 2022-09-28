@@ -1,0 +1,15 @@
+//Questao 11:
+
+//float aloha[10], coisas[10][5], *pf, value = 2.2;
+//int i=3;
+
+//Quais dos seguintes comandos são válidos ou inválidos?
+
+//aloha[2] = value;            ----> válido
+//scanf("%f", &aloha);         ----> válido
+//aloha = value";              ----> invalido
+//printf("%f", aloha);         ----> válido
+//coisas[4][4] = aloha[3];     ----> válido
+//coisas[5] = aloha;           ----> inválido
+//pf = value;                  ----> inválido
+//pf = aloha;                  ----> inválido
