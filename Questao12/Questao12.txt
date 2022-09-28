@@ -1,0 +1,19 @@
+//Questão 12:
+
+//Ponteiros são utilizados para armazenar variáveis na memória. Para as funções, eles guardam endereços de áreas de código, apontando para uma função, assim como ponteiros também apontam para as variáveis.
+
+//Ex: Mostrar o endereço de um ponteiro
+
+#include <stdio.h>
+int main()
+{
+int x,y,z,*ptrx, *prty, *prtz;
+
+ptrx = &x;
+prty = &y;
+prtz = &z;
+
+printf("O endereco de X, Y e Z eh: %p %p %p", ptrx,prty,prtz);
+
+return 0;
+}
